@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RCNN-webcam/static/css/main.f855e6bc.css",
+    "main.js": "/RCNN-webcam/static/js/main.fa01de22.js",
+    "index.html": "/RCNN-webcam/index.html",
+    "main.f855e6bc.css.map": "/RCNN-webcam/static/css/main.f855e6bc.css.map",
+    "main.fa01de22.js.map": "/RCNN-webcam/static/js/main.fa01de22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fa01de22.js"
+  ]
+}
